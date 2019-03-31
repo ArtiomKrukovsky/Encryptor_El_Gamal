@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\bin\Debug\Gamal_2.0.exe.config
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\bin\Debug\Gamal_2.0.exe
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\bin\Debug\Gamal_2.0.pdb
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2._0.Form1.resources
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2._0.Properties.Resources.resources
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.exe
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.pdb
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\source\repos\Gamal_2.0\Gamal_2.0\obj\Debug\Gamal_2.0.csproj.CopyComplete
